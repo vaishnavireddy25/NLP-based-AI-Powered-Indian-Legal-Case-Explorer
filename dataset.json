@@ -1,0 +1,31 @@
+[
+    {
+      "title": "State vs. Ramesh Kumar",
+      "date": "2023-01-18",
+      "summary": "Conviction upheld for dowry harassment where victim's suicide note and neighbors' testimonies established persistent demands for car and cash.",
+      "tags": ["dowry", "suicide", "harassment"],
+      "class": "Domestic Violence"
+    },
+    {
+      "title": "Vinod Khanna vs. CBI",
+      "date": "2022-11-05",
+      "summary": "Acquittal in money laundering case as prosecution failed to trace alleged 'proceeds of crime' to any predicate offense.",
+      "tags": ["money laundering", "cash seizure"],
+      "class": "Financial Crime"
+    },
+    {
+      "title": "Meena Devi vs. State of Rajasthan",
+      "date": "2023-03-22",
+      "summary": "Landmark ruling recognizing marital rape within forced cohabitation. Court awarded compensation while noting legislative gap in IPC.",
+      "tags": ["marital rape", "forced cohabitation"],
+      "class": "Sexual Violence"
+    },
+   
+    {
+      "title": "Indian Navy vs. Contractor Pvt. Ltd.",
+      "date": "2021-08-19",
+      "summary": "Arbitration award set aside due to violation of defense procurement guidelines. Court mandated blacklisting of contractor.",
+      "tags": ["defense contracts", "blacklisting"],
+      "class": "Military Law"
+    }
+  ]
